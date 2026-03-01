@@ -127,7 +127,7 @@ class Library {
 }
 
 // ==== Main Class ====
-public class Main1 {
+public class Library {
     public static void main(String[] args) {
         Library lib = new Library();
         Scanner input = new Scanner(System.in);
